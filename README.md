@@ -15,22 +15,6 @@
 
 ---
 
-## ⚙️ Tech Stack
-
-### 💻 Programming
-C • C++ • JavaScript • Python • SQL
-
-### 🌐 Web
-HTML • CSS • React.js • Node.js • Express.js • Tailwind CSS
-
-### ☁️ DevOps & Cloud
-Terraform • Docker • Kubernetes • GitHub Actions • AWS • Linux
-
-### 🗄️ Databases
-MySQL • MongoDB
-
----
-
 ## 📊 Coding Profiles
 
 * 🔗 LeetCode: https://leetcode.com/u/balu_patil9720
@@ -69,28 +53,24 @@ MySQL • MongoDB
 
 ---
 
-## 📊 GitHub Stats  
-
-![Balu's GitHub stats](https://github-readme-stats.vercel.app/api?username=balupatil9720&show_icons=true&theme=tokyonight)
-
 ## 🔥  Tools and Skills
 <p align="center">
 
 <!-- DevOps & Cloud (1st line) -->
 
-<img src="https://skillicons.dev/icons?i=terraform,aws,docker,kubernetes,githubactions,linux,github" />
+<img src="https://skillicons.dev/icons?i=terraform,aws,docker,kubernetes,githubactions,linux,github,git" />
 
 <br/>
 
 <!-- MERN Stack (2nd line) -->
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,html,css" />
 
 <br/>
 
 <!-- Languages & Tools (3rd line) -->
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,git,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,java,python,mysql,vscode,postman" />
 
 </p>
 
