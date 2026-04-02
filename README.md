@@ -4,10 +4,6 @@
 
 🚀 DevOps & Cloud Enthusiast | Aspiring Software Developer
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*9p9eXwJxVq7a8k5gXg5zYw.gif" width="700"/>
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -22,19 +18,15 @@
 ## ⚙️ Tech Stack
 
 ### 💻 Programming
-
 C • C++ • JavaScript • Python • SQL
 
 ### 🌐 Web
-
 HTML • CSS • React.js • Node.js • Express.js • Tailwind CSS
 
 ### ☁️ DevOps & Cloud
-
 Terraform • Docker • Kubernetes • GitHub Actions • AWS • Linux
 
 ### 🗄️ Databases
-
 MySQL • MongoDB
 
 ---
@@ -46,14 +38,10 @@ MySQL • MongoDB
 * 🔗 GeeksforGeeks: https://www.geeksforgeeks.org/user/shivpatq4lj/
 * 🔗 CodeChef: https://www.codechef.com/users/balu9533
 
-🏆 Solved **600+ DSA Problems**
+🏆 Solved ****900+ DSA Problems****
 📈 Strong problem-solving & competitive coding mindset
 
 ---
-
-
-
-
 
 ## 💼 Experience
 
@@ -81,33 +69,28 @@ MySQL • MongoDB
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-![Balu's GitHub stats](https://github-readme-stats.vercel.app/api?username=balupatil9720\&show_icons=true\&theme=tokyonight)
-
----
+![Balu's GitHub stats](https://github-readme-stats.vercel.app/api?username=balupatil9720&show_icons=true&theme=tokyonight)
 
 ## 🔥  Tools and Skills
-
-## 🚀 Tech Stack
-
 <p align="center">
 
 <!-- DevOps & Cloud (1st line) -->
 
-<img src="https://skillicons.dev/icons?i=terraform,aws,docker,kubernetes,githubactions,linux" />
+<img src="https://skillicons.dev/icons?i=terraform,aws,docker,kubernetes,githubactions,linux,github" />
 
 <br/>
 
 <!-- MERN Stack (2nd line) -->
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,tailwind,html,css" />
 
 <br/>
 
 <!-- Languages & Tools (3rd line) -->
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python,mysql,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,git,vscode,postman" />
 
 </p>
 
