@@ -57,19 +57,19 @@
 
 <!-- DevOps & Cloud (1st line) -->
 
-<img src="https://skillicons.dev/icons?i=terraform,aws,docker,kubernetes,githubactions,linux,github,git" />
+<img src="https://skillicons.dev/icons?i=terraform,aws,kubernetes,githubactions,linux,github,git" />
 
 <br/>
 
 <!-- MERN Stack (2nd line) -->
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,express,react,nodejs,tailwind,html,css" />
 
 <br/>
 
 <!-- Languages & Tools (3rd line) -->
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,java,python,mysql,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,java,python,numpy,vscode,postman" />
 
 </p>
 
