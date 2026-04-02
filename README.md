@@ -1,6 +1,12 @@
+
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Balu+Patil;DevOps+%26+Cloud+Engineer;Terraform+%7C+AWS+%7C+Kubernetes;Building+Scalable+Systems" />
 # Hi 👋, I'm Balu Patil
 
 🚀 DevOps & Cloud Enthusiast | Aspiring Software Developer
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
+</p>
 
 ---
 
@@ -81,13 +87,9 @@ MySQL • MongoDB
 
 ---
 
-## 🔥 DevOps Tools
+## 🔥  Tools and Skills
 
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,mysql,html,css,react,nodejs,express,tailwind,terraform,aws,docker,kubernetes,githubactions,linux,git,github,vscode,postman" />
 
 ---
 
