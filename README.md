@@ -18,7 +18,6 @@
 ## 📊 Coding Profiles
 
 * 🔗 LeetCode: https://leetcode.com/u/balu_patil9720
-* 🔗 CodeStudio: https://www.naukri.com/code360/profile/bde57d47-0895-4790-9750-ac93851f4d82
 * 🔗 GeeksforGeeks: https://www.geeksforgeeks.org/user/shivpatq4lj/
 * 🔗 CodeChef: https://www.codechef.com/users/balu9533
 
