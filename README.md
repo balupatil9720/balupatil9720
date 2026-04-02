@@ -5,7 +5,7 @@
 🚀 DevOps & Cloud Enthusiast | Aspiring Software Developer
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*9p9eXwJxVq7a8k5gXg5zYw.gif" width="700"/>
 </p>
 
 ---
@@ -89,7 +89,28 @@ MySQL • MongoDB
 
 ## 🔥  Tools and Skills
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python,mysql,html,css,react,nodejs,express,tailwind,terraform,aws,docker,kubernetes,githubactions,linux,git,github,vscode,postman" />
+## 🚀 Tech Stack
+
+<p align="center">
+
+<!-- DevOps & Cloud (1st line) -->
+
+<img src="https://skillicons.dev/icons?i=terraform,aws,docker,kubernetes,githubactions,linux" />
+
+<br/>
+
+<!-- MERN Stack (2nd line) -->
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,html,css" />
+
+<br/>
+
+<!-- Languages & Tools (3rd line) -->
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,mysql,git,github,vscode,postman" />
+
+</p>
+
 
 ---
 
