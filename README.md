@@ -31,7 +31,7 @@
 
 ## 📈 Currently Learning
 
-* Advanced Terraform (Modules, Remote Backend)
+* Terraform (Modules, Remote Backend)
 * Kubernetes & Container Orchestration
 * CI/CD Pipelines (GitHub Actions)
 * Cloud Architecture & System Design
