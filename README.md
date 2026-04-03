@@ -5,9 +5,11 @@
 🚀 DevOps & Cloud Enthusiast | Aspiring Software Developer
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-7a7d1b7b-9b0c-4e66-bc77-4c6c7a6c9fcb.gif" width="700"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="80"/>
 </p>
-
 ## 🧠 About Me
 
 🎓 Pre-final year IT student at Walchand College of Engineering (CGPA: 8.79)
