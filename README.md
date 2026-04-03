@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Balu+Patil;DevOps+%26+Cloud+Engineer;Terraform+%7C+AWS+%7C+Kubernetes;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Balu+Patil;DevOps+%26+Cloud+Engineer;Terraform+%7C+AWS+%7C+Kubernetes;Building+Scalable+Systems" />
 # Hi 👋, I'm Balu Patil
 
 🚀 DevOps & Cloud Enthusiast | Aspiring Software Developer
