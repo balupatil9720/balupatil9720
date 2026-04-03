@@ -1,18 +1,9 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Balu+Patil;DevOps+%26+Cloud+Enthusiast;Docker+%7C+AWS+%7C+Terraform;Building+Scalable+Systems" />
-# Hi 👋, I'm Balu Patil
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Balu+Patil;DevOps+%26+Cloud+Enthusiast;Docker+%7C+AWS+%7C+Terraform" />
 
-🚀 DevOps & Cloud Enthusiast | Aspiring Software Developer
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="80"/>
-</p>
 ## 🧠 About Me
 
-🎓 Pre-final year IT student at Walchand College of Engineering (CGPA: 8.79)
+🎓 Pre-final year IT student at Walchand College of Engineering **(CGPA: 8.79)**
 ☁️ Passionate about **Cloud, DevOps & Scalable Systems**
 💡 Strong in **Data Structures, Backend Development & System Design**
 🔥 Building real-world projects using Terraform, AWS & CI/CD
