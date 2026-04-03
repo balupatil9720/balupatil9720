@@ -52,7 +52,7 @@
 
 <!-- DevOps & Cloud (1st line) -->
 
-<img src="https://skillicons.dev/icons?i=terraform,aws,kubernetes,githubactions,linux,github,git" />
+<img src="https://skillicons.dev/icons?i=terraform,aws,docker,kubernetes,githubactions,linux,github" />
 
 <br/>
 
