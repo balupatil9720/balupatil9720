@@ -5,7 +5,7 @@
 🚀 DevOps & Cloud Enthusiast | Aspiring Software Developer
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750677-76e9c3f4-8c63-4a5f-9f1c-9d4a4d2fbc6f.gif" width="700"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-7a7d1b7b-9b0c-4e66-bc77-4c6c7a6c9fcb.gif" width="700"/>
 </p>
 
 ## 🧠 About Me
