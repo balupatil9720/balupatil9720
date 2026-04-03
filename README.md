@@ -5,7 +5,7 @@
 🚀 DevOps & Cloud Enthusiast | Aspiring Software Developer
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
 </p>
 
 ## 🧠 About Me
