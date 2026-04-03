@@ -63,13 +63,13 @@
 
 <!-- MERN Stack (2nd line) -->
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,express,react,nodejs,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,express,react,tailwind,html,css" />
 
 <br/>
 
 <!-- Languages & Tools (3rd line) -->
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,java,python,numpy,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,java,python,vscode,postman" />
 
 </p>
 
