@@ -3,7 +3,7 @@
 
 ## 🧠 About Me
 
-🎓 Pre-final year IT student at Walchand College of Engineering **(CGPA: 8.79)**
+🎓 Pre-final year IT student at Walchand College of Engineering **(CGPA: 8.83)**
 ☁️ Passionate about **Cloud, DevOps & Scalable Systems**
 💡 Strong in **Data Structures, Backend Development & System Design**
 🔥 Building real-world projects using Terraform, AWS & CI/CD
